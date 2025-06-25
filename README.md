@@ -45,6 +45,12 @@ php artisan serve
 
 Truy cập `http://localhost:8000` trong trình duyệt của bạn để sử dụng ứng dụng.
 
+## Biểu đồ database Class diagram
+![dLGzRzim4Dq5w3ySlBWVI9gkHXl4iT4eW2kqjJLaCcY9SOXAb42U-eci7OBq1xJeqA5ZWUprQC3_G_-a5tquaaCPHhY8U4-yU_Vko2EDJ64QXRQbtmkPCCKYy4EcTHzHYLcA_DIFvLXyuN1WMxRLXPVh1QDiyVCDk2UhcspnwnI6on_kIOsthJmIU9eh-6fR](https://github.com/user-attachments/assets/5dedd3aa-8e9c-4fbf-a240-1dd7af39fd71)
+
+## Biểu đồ database Usecase diagram
+![PPD1QzH05CVlWNo7nthHGwdTRTVs8hLTYo08LWMluyoO34acwsHIMCHJ3nv4iCSU18lqKheWU793wM4MlyTy4zyaizacNfRyt_kzD__tPdQ_q4JfCal38ENlDUWSb8XY3KmeJhN8PHWKYP1JeaW6Kq8J4l5NUfPoS7aYevJV9Sg2Kr9m-1W600U8Hoel9JlC](https://github.com/user-attachments/assets/3c51dc24-ed10-4610-8fa5-980dea306195)
+
 ## Công nghệ
 
 - Laravel
