@@ -66,10 +66,7 @@ Truy cập `http://localhost:8000` trong trình duyệt của bạn để sử d
 ![z6741005410068_2048ddfccad1eb3cc8bde240a5c5623e](https://github.com/user-attachments/assets/34de1574-55e3-450f-9ffe-3faefe62f179)
 ![z6741005612901_9b708361f89b0ec57c8479d081bb5eb4](https://github.com/user-attachments/assets/3bdcef13-8f93-499a-beba-86800f48a40d)
 ### Giao diện admin
-![Screenshot 2025-02-27 174040](https://github.com/user-attachments/assets/2948ba40-4249-47ca-b2f4-d6c945ac1b1f)
-![Screenshot_27-2-2025_175258_127 0 0 1](https://github.com/user-attachments/assets/9c007704-fd32-4422-b17a-37c170fdd5d9)
-
-
+![417557938-2948ba40-4249-47ca-b2f4-d6c945ac1b1f](https://github.com/user-attachments/assets/8324be29-a566-462d-a1fc-79d6b98c8f7d)
 
 ### 
 
